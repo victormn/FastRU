@@ -7,10 +7,10 @@ import android.view.View;
 public class LoginActivity extends AppCompatActivity {
 
     // @TODO: Bloquear tela no modo retrato
-    // @TODO: Tela "Opção de compra"
     // @TODO: Tela "Pagamento"
-    // @TODO: Tela "Voucher"
     // @TODO: Fazer um ícone mais bonito
+    // @TODO: Fazer lógicas entre as telas
+    // @TODO: Ver como será a transição da última tela para a principal
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

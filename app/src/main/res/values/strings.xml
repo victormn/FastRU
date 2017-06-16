@@ -3,4 +3,10 @@
     <string name="app_name">FastRU</string>
     <string name="title_app">Fast RU</string>
     <string name="logo">logo</string>
+    <string name="escolha_sua_op_o_de_compra">Escolha sua opção de Vale Refeição</string>
+    <string name="estudante">Estudante</string>
+    <string name="comum">Comum</string>
+    <string name="vale_refei_o">Vale Refeição</string>
+    <string name="comum_para_validar_apresente_este_voucher_antes_de_se_servir"><b>• Comum:</b> Para validar, apresente este voucher antes de se servir</string>
+    <string name="estudante_para_validar_apresente_este_voucher_acompanhado_de_carteirinha_antes_de_se_servir"><b>• Estudante:</b> Para validar, apresente este voucher acompanhado de carteirinha antes de se servir</string>
 </resources>
