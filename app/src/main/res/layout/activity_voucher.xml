@@ -59,4 +59,12 @@
         android:layout_marginTop="42dp"
         android:textStyle="bold" />
 
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/logo_main_screen"
+        android:src="@drawable/qrcode"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="10dp" />
+
 </RelativeLayout>
