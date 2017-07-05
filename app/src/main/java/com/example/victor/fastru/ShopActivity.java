@@ -16,7 +16,7 @@ public class ShopActivity extends AppCompatActivity {
     }
 
     public void onIniciarClick(View view) {
-        Intent intent = new Intent(this, VoucherActivity.class);
+        Intent intent = new Intent(this, PaymentActivity.class);
         startActivity(intent);
     }
 }
